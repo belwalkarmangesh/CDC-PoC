@@ -1,9 +1,12 @@
-<mxfile modified="2022-01-24T14:30:59.667Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WdgpFhURIfkFqGGjwrsd" version="16.2.2" type="github">
+<mxfile modified="2022-01-24T14:33:40.984Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wg9whMmHfDLqkb3B0ckr" version="16.2.2" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="CDC">
     <mxGraphModel dx="1022" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84.66" y="350" width="175.34" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="180" height="170" as="geometry" />
         </mxCell>
@@ -110,9 +113,6 @@
             <mxPoint x="134.83999999999997" y="484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="juTeedIcPSSgVDFVss3v-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fillColor=none;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="90" y="350" width="170" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="juTeedIcPSSgVDFVss3v-66" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="juTeedIcPSSgVDFVss3v-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="590" as="sourcePoint" />
@@ -172,7 +172,7 @@
           <mxGeometry x="490" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-2" value="App Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="486" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-3" value="SQL Database with CDC enabled" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170.5" y="470" width="60" height="30" as="geometry" />
@@ -203,6 +203,12 @@
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-18" value="Key Vault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="412.94" y="447" width="32.13" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-25" value="App Insights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384.93" y="488" width="75.07" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
