@@ -1,5 +1,5 @@
-<mxfile modified="2022-01-24T14:23:22.317Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mb7dT69mHXZcnyZw-fGi" version="16.2.2" type="github">
-  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
+<mxfile modified="2022-01-24T14:24:18.424Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8ylEpTkGmreEqgJuZi_p" version="16.2.2" type="github">
+  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="CDC">
     <mxGraphModel dx="1022" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-7" value="Azure Active Directory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="730" width="113.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-11" value="VNet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="93.95" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
