@@ -1,6 +1,6 @@
-<mxfile modified="2022-01-24T14:44:24.768Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Uf1c2NNjN-NiSMUyvVlm" version="16.2.2" type="github">
+<mxfile modified="2022-01-24T14:45:33.666Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yHJDYKv8jSWUBSp5XTbY" version="16.2.2" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="CDC">
-    <mxGraphModel dx="1022" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,6 +227,9 @@
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-34" value="MongoDB API over wire protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="625" width="125" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
