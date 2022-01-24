@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-24T14:49:04.778Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="a8da-uiUV6zngMTeGMut" version="16.2.2" type="github">
+<mxfile modified="2022-01-24T14:52:22.919Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ygzw3pu5oszxPyahJKcK" version="16.2.2" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="CDC">
     <mxGraphModel dx="1022" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -230,6 +230,15 @@
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="404.01" y="227.5" width="50" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="350" width="183" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-45" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="374" width="67.5" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="3U5a-KRIZXhlyhH9B44z-46" value="Storage Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="727" y="455" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
