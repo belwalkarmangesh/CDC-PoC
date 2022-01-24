@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-24T14:28:02.878Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gQsbouulykkWP0QD9OUG" version="16.2.2" type="github">
+<mxfile modified="2022-01-24T14:28:15.750Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4wyz52wlcKPb2I5L8X4m" version="16.2.2" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="CDC">
     <mxGraphModel dx="1022" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -197,9 +197,6 @@
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;" vertex="1" parent="1">
           <mxGeometry x="119.66" y="770" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3U5a-KRIZXhlyhH9B44z-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3U5a-KRIZXhlyhH9B44z-17" value="Access Control&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="94.66" y="810" width="100" height="30" as="geometry" />
